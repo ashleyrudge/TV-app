@@ -1,4 +1,4 @@
-import bg from './assets/Background Image.svg';
+
 import couch from './assets/couch.svg';
 import dropdown from './assets/dropdown.svg';
 import search from './assets/search.svg';
